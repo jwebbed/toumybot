@@ -1,4 +1,2 @@
 .env
 *.pyc
-config.py
-*.config.py
